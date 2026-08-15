@@ -49,7 +49,7 @@
 
 ### 📂 Featured Projects
 
-<!-- Repo Pins (Otomatis menampilkan repo GitHub kamu) -->
+<!-- Repo Pins -->
 <p align="center">
   <a href="https://rapzdev.vercel.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rappbukansepuh&repo=KasClass&theme=tokyonight" alt="RapzDev" />
@@ -71,6 +71,19 @@
 ---
 
 ### 🤝 Connect with Me
+
+<!-- Social Media Badges -->
+<p align="left">
+  <a href="https://www.instagram.com/bolean_true?igsh=MTNtNmh1MGg2ODF3Ng==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.tiktok.com/@hack_coders?_r=1&_t=ZS-98uPjC2o8fg" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="t.me/rapzdingding" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 
 - 📂 **GitHub:** [github.com/Rappbukansepuh](https://github.com/Rappbukansepuh)
 - 🚀 Always open to learning new tech and collaborating on cool student projects!
