@@ -51,8 +51,8 @@
 
 <!-- Repo Pins (Otomatis menampilkan repo GitHub kamu) -->
 <p align="center">
-  <a href="https://github.com/Rappbukansepuh/KasClass">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rappbukansepuh&repo=KasClass&theme=tokyonight" alt="KasClass Repo" />
+  <a href="https://rapzdev.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rappbukansepuh&repo=KasClass&theme=tokyonight" alt="RapzDev" />
   </a>
   <a href="https://github.com/Rappbukansepuh/Nu-WarungNasiUduk">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rappbukansepuh&repo=Nu-WarungNasiUduk&theme=tokyonight" alt="Nu-WarungNasiUduk Repo" />
