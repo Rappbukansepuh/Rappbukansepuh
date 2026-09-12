@@ -51,8 +51,8 @@
 
 <!-- Repo Pins -->
 <p align="center">
-  <a href="https://rapzdev.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rappbukansepuh&repo=KasClass&theme=tokyonight" alt="RapzDev" />
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="RapzDev" />
   </a>
   <a href="https://github.com/Rappbukansepuh/Nu-WarungNasiUduk">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rappbukansepuh&repo=Nu-WarungNasiUduk&theme=tokyonight" alt="Nu-WarungNasiUduk Repo" />
@@ -80,7 +80,7 @@
   <a href="https://www.tiktok.com/@hack_coders?_r=1&_t=ZS-98uPjC2o8fg" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
-  <a href="t.me/rapzdingding" target="_blank">
+  <a href="https://t.me" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
