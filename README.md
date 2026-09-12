@@ -49,13 +49,13 @@
 
 ### 📂 Featured Projects
 
-<!-- Repo Pins -->
+<!-- Repo Pins Alternatif Terbuka -->
 <p align="center">
   <a href="https://github.com">
     <img src="https://vercel.app" alt="RapzDev" />
   </a>
-  <a href="https://github.com/Rappbukansepuh/Nu-WarungNasiUduk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rappbukansepuh&repo=Nu-WarungNasiUduk&theme=tokyonight" alt="Nu-WarungNasiUduk Repo" />
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="Nu-WarungNasiUduk Repo" />
   </a>
 </p>
 
@@ -64,11 +64,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rappbukansepuh&show_icons=true&theme=tokyonight&count_private=true" alt="Rapding's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rappbukansepuh&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://vercel.app" alt="Rapding's GitHub Stats" height="180px" />
+  <img src="https://vercel.app" alt="Top Languages" height="180px" />
 </p>
 
 ---
+
 
 ### 🤝 Connect with Me
 
