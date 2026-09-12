@@ -52,7 +52,7 @@
 <!-- Repo Pins Alternatif Terbuka -->
 <p align="center">
   <a href="https://github.com">
-    <img src="https://vercel.app" alt="RapzDev" />
+    <img src="https://github.com/Rappbukansepuh/rapzdev.git" alt="RapzDev" />
   </a>
   <a href="https://github.com">
     <img src="https://vercel.app" alt="Nu-WarungNasiUduk Repo" />
