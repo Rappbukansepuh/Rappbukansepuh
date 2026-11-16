@@ -92,16 +92,16 @@ const rapding = {
 
 <!-- ================= PROJECTS ================= -->
 
-<h2 align="center">FEATURED PROJECTS</h2>
+<h2 align="center">Suka Nonton Anime</h2>
 
 <p align="center">
   <a href="https://github.com/Rappbukansepuh/scrapezy.git">
-    <img src="https://pin.it/1MErNamav" />
+    <img src="https://github.com/Rappbukansepuh/scrapezy/blob/main/anime.jpg?raw=true" />
   </a>
 </p>
 
 <p align="center">
-  <i>More projects coming soon...</i>
+  <i>Halooo Guys....</i>
 </p>
 
 ---
