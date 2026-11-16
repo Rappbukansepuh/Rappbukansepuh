@@ -138,10 +138,6 @@ const rapding = {
 <h2 align="center">&lt;CODE /&gt; IS MY LANGUAGE</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Developer Coding Animation" />
-</p>
-
-<p align="center">
   <i>Mengubah ide menjadi kode, satu baris demi satu baris.</i>
   <br />
   <i>Turning ideas into code, one line at a time.</i>
