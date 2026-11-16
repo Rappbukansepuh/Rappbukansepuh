@@ -133,11 +133,17 @@ const rapding = {
 
 <!-- ================= CONTRIBUTION SNAKE ================= -->
 
-<h2 align="center">CONTRIBUTION SNAKE</h2>
+
+<h2 align="center">CODING MODE</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rappbukansepuh/Rappbukansepuh/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Developer Coding Animation" />
 </p>
+
+<p align="center">
+  <i>Turning ideas into code, one line at a time.</i>
+</p>
+
 
 ---
 
