@@ -95,8 +95,8 @@ const rapding = {
 <h2 align="center">FEATURED PROJECTS</h2>
 
 <p align="center">
-  <a href="https://github.com/Rappbukansepuh/rapzdev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rappbukansepuh&repo=rapzdev&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Rappbukansepuh/scrapezy.git">
+    <img src="https://pin.it/1MErNamav" />
   </a>
 </p>
 
